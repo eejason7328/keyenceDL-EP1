@@ -11,3 +11,5 @@ First, you need to setup the DL-EP1 IP, using the Keyence IP tool:DL-EN1 IP Conf
 Second, setup you PC or NB IP in the same network. EX:192.168.0.XXX
 
 Third, open the code which upload, and run it, should be connected and get information which you want.
+
+Fourth, this python code can save data as .csv file, also you can change the recording time.
