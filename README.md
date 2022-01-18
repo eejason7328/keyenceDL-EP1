@@ -1,5 +1,5 @@
 # keyenceDL-EP1
-Keyence DL-EP1 using the python to get IR sensor data
+Keyence DL-EP1 using the python to get Keyence IR sensor data
 
 All modules from Keyence
 1.DL-EP1
